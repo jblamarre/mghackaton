@@ -1,0 +1,2 @@
+# mghackaton
+McGill Hackaton
